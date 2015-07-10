@@ -3,10 +3,13 @@ pptp vpn for Openvz VPS
 vpn_debian.sh for the Debian7 and Ubuntu12.04 
 
 1.Download script
+
 wget https://github.com/codepools/VPN/blob/master/vpn_debian.sh
+
 chmod a+x vpn_debian.sh
 
 2.run script
+
 ./vpn_debian.sh
 
 3.Add user
@@ -18,10 +21,13 @@ chmod a+x vpn_debian.sh
 vpn_centos6_32.sh for the centos6 X32 not X64
 
 1.Download script
+
 wget https://github.com/codepools/VPN/blob/master/vpn_centos6_32.sh
+
 chmod a+x vpn_centos6_32.sh
 
 2.run script
+
 bash vpn_centos6_32.sh
 
 3.Add user
@@ -34,10 +40,13 @@ bash vpn_centos6_32.sh
 vpn_centos5_32.sh for the centos6 X32 not X64
 
 1.Download script
+
 wget https://github.com/codepools/VPN/blob/master/vpn_centos5_32.sh
+
 chmod a+x vpn_centos5_32.sh
 
 2.run script
+
 bash vpn_centos5_32.sh
 
 3.Add user
